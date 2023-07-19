@@ -11,7 +11,9 @@ This is a custom WordPress theme for a code challenge to create a custom post ty
 ### Plugins Used:
 - Advanced Custom Fields(ACF)
 
-ACF custom fields were chosen for this challenge over using the built in Wordpress fields for better Image fields.
+This theme will not work correctly without the Advanced Custom Fields(ACP) plugin installed and without the matching custom fields  in the database that are used in this theme's template.
+
+ACF was chosen for this challenge for the ACF custom fields to be used over using the built in Wordpress fields for better Image fields.
 
 SASS code was written to follow AIR BNB style guiding
 [Airbnb SCSS Style Guide](https://github.com/airbnb/css) 
