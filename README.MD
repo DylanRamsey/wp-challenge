@@ -4,8 +4,6 @@ This is a custom WordPress theme for a code challenge to create a custom post ty
 
 ## Github Repository: https://github.com/DylanRamsey/wp-challenge
 
-### Steps 
-
 ### Web server: nginx
 ### PHP Version 8.1.9
 ### Database MySQL 8.0.16
