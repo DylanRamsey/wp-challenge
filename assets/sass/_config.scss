@@ -1,0 +1,20 @@
+/*
+Theme Name: Brandcoders Challenge
+Text Domain: Brandcoders Challenge
+Version: 1.0
+Description: Brandcoders Challenge for Brandcoders
+Tags: challenge, code, store
+Author: Dylan Ramsey
+Author URI: https://dylanbradramsey.com
+*/
+
+:root {
+  --button-color: hsl(0, 0%, 85%);
+  --image-background: hsl(0, 0%, 97.65%);
+  --shadow: 3px 3px 6px 0px #cccccc;
+  --text-color: hsl(0, 0%, 25%);
+}
+
+// Sass variables for media queries 
+$tablet: 48rem;
+$desktop: 90rem;
