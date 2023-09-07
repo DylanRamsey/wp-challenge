@@ -1,6 +1,6 @@
-# Brandcoders Code Challenge
+# Digital Agency Code Challenge
 
-This is a custom WordPress theme for a code challenge to create a custom post type, taxonomy, and template in WordPress using PHP.
+This is a custom WordPress theme for a job interview's code challenge to create a custom post type, taxonomy, and template in WordPress using PHP.
 
 ## Github Repository: https://github.com/DylanRamsey/wp-challenge
 
